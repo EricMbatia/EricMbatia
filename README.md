@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EricMbatia
-- 👀 I’m interested in software developement and data science
+- 👀 I believe that data ca change the way we look at the world! 
 - 🌱 I’m currently learning ... web developement and cloud services
-- 💞️ I’m looking to collaborate on ... web developement and cloud deployement gigs
-- 📫 How to reach me ... mbatiaeric2@gmail.com// 0711938980
+- 💞️ I’m looking to collaborate on ... web developement, cloud deployement and data science
+- 📫 How to reach me ... mbatiaeric2@gmail.com// +254711938980
 
 <!---
 EricMbatia/EricMbatia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
