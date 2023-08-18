@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @EricMbatia
-- 🌱 I’m currently learning ... web developement and cloud services
+- 🌱 I’m currently learning Data Science and cloud services
 - 💞️ I’m looking to collaborate on ... web developement, cloud deployement and data science
-- 📫 How to reach me ... mbatiaeric2@gmail.com// +254711938980
+- 📫 How to reach me ... mbatiaeric2@gmail.com
