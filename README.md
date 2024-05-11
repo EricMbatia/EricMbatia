@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @EricMbatia
-- 🌱 I’m currently learning Data Science and cloud services
-- 💞️ I’m looking to collaborate on ... web developement, cloud deployement and data science
+- 🌱 I’m currently a Data analyst and Quality assuarance proffessional
+- 💞️ I’m looking to collaborate on ... Data science and process automation as well cloud services (AWS, Azure and Google Cloud)
+- I also do web development and cloud deployments 
 - 📫 How to reach me ... mbatiaeric2@gmail.com
